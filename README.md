@@ -1,6 +1,6 @@
 # The Creator's Cut — YouTube Growth Guide
 
-A complete, evergreen guide to starting and growing a YouTube channel — covering channel setup, branding, SEO, scripting, editing, and monetization, backed by a verified directory of free and paid creator tools.
+A complete, evergreen guide to starting and growing a YouTube channel, covering channel setup, branding, SEO, scripting, editing, and monetization, backed by a verified directory of free and paid creator tools.
 
 **Live site:** [itsairamkumar.github.io/start-a-youtube-channel/](https://itsairamkumar.github.io/start-a-youtube-channel/)
 
