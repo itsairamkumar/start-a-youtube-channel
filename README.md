@@ -8,28 +8,28 @@ A complete, evergreen guide to starting and growing a YouTube channel — coveri
 
 ## About the Project
 
-**The Creator's Cut** is a single-page, long-form reference built for anyone starting a YouTube channel from zero — from setting up a Google/Brand account to publishing, growing, and monetizing content. It's structured as **36 chapters across 8 topic groups**, plus a **40+ tool directory** covering everything from thumbnail design to analytics.
+**The Creator's Cut** is a single-page, long-form reference built for anyone starting a YouTube channel from zero, from setting up a Google/Brand account to publishing, growing, and monetizing content. It's structured as **36 chapters across 8 topic groups**, plus a **40+ tool directory** covering everything from thumbnail design to analytics.
 
-The site is hand-built with vanilla HTML, CSS, and JavaScript — no frameworks, no build step — and optimized to load fast, read cleanly on mobile, and hold up under real technical SEO scrutiny.
+The site is hand-built with HTML, CSS, and JavaScript, no frameworks, no build step, and optimized to load fast, read cleanly on mobile, and hold up under real technical SEO scrutiny.
 
 ---
 
 ## Key Features
 
-- **36 in-depth chapters** grouped into 8 logical sections — Foundations, Branding & Design, Content Strategy, Production, Publishing & SEO, Growth, Monetization, and Analytics
-- **Verified tool directory** — 40+ hand-picked tools with direct links, organized by use case
+- **36 in-depth chapters** grouped into 8 logical sections, Foundations, Branding & Design, Content Strategy, Production, Publishing & SEO, Growth, Monetization, and Analytics
+- **Verified tool directory** - 40+ hand-picked tools with direct links, organized by use case
 - **Checklists & pro tips** woven into every chapter for practical, actionable guidance
 - **FAQ sections** across key chapters, marked up with `FAQPage` structured data for rich search results
-- **Fully responsive** — tuned across six breakpoints, from small phones to ultra-wide desktops
-- **Performance-conscious** — lazy-loaded images and embeds, non-blocking font loading with a `<noscript>` fallback
+- **Fully responsive** - tuned across six breakpoints, from small phones to ultra-wide desktops
+- **Performance-conscious** - lazy-loaded images and embeds, non-blocking font loading with a `<noscript>` fallback
 
 ---
 
 ## Built With
 
-- **HTML5** — semantic structure (`nav`, `address`, `footer`), single-page architecture
-- **CSS3** — custom responsive design system, no external UI framework
-- **Vanilla JavaScript** — dynamic content rendering, no dependencies
+- **HTML5** - semantic structure (`nav`, `address`, `footer`), single-page architecture
+- **CSS3** - custom responsive design system, no external UI framework
+- **Vanilla JavaScript** - dynamic content rendering, no dependencies
 
 ---
 
