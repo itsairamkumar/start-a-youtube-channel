@@ -1,0 +1,3 @@
+User-agent: *
+   Allow: /
+   Sitemap: https://itsairamkumar.github.io/sitemap.xml
